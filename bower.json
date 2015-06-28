@@ -1,0 +1,13 @@
+{
+  "name": "Bare-Bone-Structure-For-Web-Application",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dhongadeaakash/Bare-Bone-Structure-For-Web-Application",
+  "authors": [
+    "Aakash Dhongade <dhongadeaakash@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4"
+  }
+}
